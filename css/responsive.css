@@ -1,0 +1,242 @@
+@media screen and (max-width: 1350px) {
+
+.cv{
+	display: none;
+}
+
+
+}
+
+@media screen and (max-width: 1130px) {
+	.conss p {
+		margin-top:20px;
+		font-size:16px;
+	
+	}
+	.conss h1 {
+		font-size:24px;
+		margin-left:20px;	
+	} 
+	.menu li {
+		float:left !important;
+		display: block !important;
+		margin-right: 40px;
+		font-size:22px;
+	}
+	canvas {
+		display: none;
+	}
+	#fixmenu{
+ float: left !important;
+ text-align: center !important;
+ width: 1000px;
+}
+}
+
+@media screen and (max-width: 900px) {
+	.main-titles h1 {
+		font-size:24px;
+		text-align: center;
+		padding-top:5px;
+	}
+	.subtitles p {
+		font-size:16px;
+		line-height: 1.4;
+	}
+	.subtitles {
+		margin-top:0px;
+	}
+
+	.tit h1 {
+		font-size:24px;
+		text-align: center;
+		margin-top:30px;
+		margin-bottom: 30px;
+	}
+	.conss p {
+		margin-top:20px;
+		font-size:16px;
+	}
+	.conss {
+		height: auto;
+		width: auto;
+	}
+
+	.conss h1 {
+		text-align: center 
+	}
+	
+	.button {
+		float:none;
+		margin:0 auto;
+		margin-top: 30px
+	}
+	.conss h1 {
+		font-size:24px;
+		margin-left:20px;	 
+	}
+	.service {
+		overflow: hidden; 
+		margin-bottom: 10px;
+		padding: 15px 15px 10px;
+		display: inline-block;
+		width: auto;
+		border-top: 1px solid #675;
+		height: 200px;
+	}
+	#fixmenu {
+
+ text-align: center !important;
+ width: 840px;
+	margin: 0 auto;
+}
+.menu{
+	 
+	  text-align: center !important;
+}
+.nav-menu li{
+	
+	text-align: center;
+}
+	
+  }
+
+@media screen and (max-width: 922px) {
+	.menu{
+	display: block;
+	text-align: left;
+
+}
+}
+
+
+
+
+@media screen and (max-width: 837px) {
+.menu  li{
+		float: none;
+	}
+	#fixmenu{
+		position: initial;
+	}
+
+	.menu{
+
+	}
+}
+
+
+
+
+
+@media screen and (max-width: 650px) {
+	.contact_form input {
+		height:20px;  
+		width:70%;
+		padding:5px 8px;
+		text-align: center;
+	}
+	.contact_form p {
+		
+		margin:7px 10px 7px 10px;
+		padding:0px;
+	}
+	.hui {
+		display: none;
+	}
+	.logo {
+		float:none;
+	}
+    .contitles h1 {
+    	margin-top:40px;
+    }
+	.map {
+		width: 400px;
+		height: 250px;
+	}
+	#contact p {
+	font-size:15px;
+}
+    #contact h1 {
+	font-size:24PX;
+	font-weight: bold;
+}
+
+c
+.menu{
+	 float: left !important;
+	  text-align: center !important;
+}
+	#fixmenu {
+
+ text-align: center !important;
+ width: 600px;
+	margin: 0 auto;
+
+}
+}
+
+
+@media screen and (max-width: 480px) {
+
+input, textarea{
+	width: 80% !important;
+}
+	.menu li {
+		font-size:16px;
+	}
+
+
+
+	.main-titles h1 {
+		font-size:24px;
+		text-align: center;	
+	}
+
+	.subtitles p {
+		font-size:15px;
+		text-align: justify;	
+	}
+
+	.service {
+		height: 300px;
+	}
+
+	.contitles {
+		display: none;
+	}
+	
+
+	.conss {
+		height: auto;
+		padding-top:40px;
+		width: auto;
+	}
+
+	.button {
+		margin:0 auto;
+		margin-bottom: 40px;
+		width: 200px;
+	}
+
+  .map {
+  	width: 280px;
+  	height: 150px;
+  }	
+#fixmenu{
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center !important;
+ width: 150px;
+}
+.menu{
+	 float: left !important;
+	  text-align: center !important;
+}
+
+}
+
+
+
+
+
